@@ -1,0 +1,33 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+.all {
+	margin: 0px auto;
+	width: 960px;
+	text-align: center;
+}
+h1{
+	margin:30px;
+	font-size: 30px;
+	color:blue;
+	font-weight: 700;
+	text-shadow: 0 1px 4px rgba(0, 0, 0, .2);
+}
+table{
+	border-collapse:collapse;
+	margin:0 auto;
+	text-align: center;
+}
+td,th{ 
+	height:1px;
+    border:1px solid #cad9ea; 
+    padding:0 1em 0; 
+} 
+.footer{
+	width: 100%;
+	clear: both;
+	color: red;
+	padding-top: 2cm;	
+	text-align: center;
+}
